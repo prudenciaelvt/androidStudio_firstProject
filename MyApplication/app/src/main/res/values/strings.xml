@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dolphin</string>
+    <string name="kata">Hello</string>
+    <string name="Name">Prudencia Belva Cynara Trana Putri</string>
+    <string name="Date">11 Juli 2023</string>
+    <string name="School">Universitas Pembangunan Nasional Veteran Jawa Timur</string>
+    <string name="Button">List Barang</string>
+    <string name="ButtonSatu">WhatsApp</string>
+    <string name="ButtonDua">Maps</string>
+    <string name="ButtonTiga">Instagram</string>
+    <string name="ButtonEmpat">YouTube</string>
+    <string name="ButtonLima">Picture</string>
+    <string name="ButtonEnam">Most Popular Movies</string>
+
+</resources>
